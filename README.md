@@ -1,4 +1,10 @@
-###Oiii eu sou o Fábio Benedicto 👋
+### Hi there, I'm Fabio Benedicto!
+
+- 🔭 I’m currently working on my self;
+- 🌱 I’m currently learning React Native;
+- 😄 Pronouns: he/him.
+
+##
 
 <div align="center">
   <a href="https://github.com/FabioBenedicto">
