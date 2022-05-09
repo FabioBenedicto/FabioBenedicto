@@ -1,4 +1,4 @@
-### Hi there, I'm Fabio Benedicto!
+### Hi there, I'm Fábio Benedicto!
 
 - 🔭 I’m currently working on my self;
 - 🌱 I’m currently learning React Native;
