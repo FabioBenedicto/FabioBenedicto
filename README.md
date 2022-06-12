@@ -1,6 +1,6 @@
 ### Hi there, I'm Fábio Benedicto!
 
-- 🔭 I’m currently working on my self;
+- 🔭 I’m working on my self;
 - 🌱 I’m currently learning React Native;
 - 😄 Pronouns: he/him.
 
