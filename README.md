@@ -9,8 +9,6 @@ Nesse momento:
 <br>
 
   ##
-
-<br>
   
 <div align="center">
   <a href="https://github.com/FabioBenedicto">
@@ -26,8 +24,6 @@ Nesse momento:
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
-
-<br>
 
 ##
 
