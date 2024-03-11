@@ -23,7 +23,7 @@ Nesse momento:
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
-##
+
  
 <div> 
   <a href="mailto:fabiobenedicto@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
