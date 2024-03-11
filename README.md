@@ -1,12 +1,12 @@
 ### Hello wolrd! Eu me chamo Fábio Henrique Benedicto.
 
-<br>
+##
 
 Nesse momento:
 - 🔭 Estou procurando por uma oportunidade de estágio.
 - 🌱 Estou aperfeiçoando minhas habilidades em Typescript.
 
-  ##
+##
   
 <div align="center">
   <a href="https://github.com/FabioBenedicto">
