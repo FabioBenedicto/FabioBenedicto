@@ -6,6 +6,8 @@ Nesse momento:
 - 🔭 Estou procurando por uma oportunidade de estágio.
 - 🌱 Estou aperfeiçoando minhas habilidades em Typescript.
 
+<br>
+
   ##
   
 <div align="center">
