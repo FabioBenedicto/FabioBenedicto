@@ -1,7 +1,8 @@
 ### Hello wolrd! Eu me chamo Fábio Henrique Benedicto.
 
-- 🔭 Eu estou procurando por uma oportunidade de estágio.
-- 🌱 Eu estou estudando Typescript.
+### Atualmente:
+- 🔭 Estou procurando por uma oportunidade de estágio.
+- 🌱 Estou estudando Typescript.
 
   ##
 
