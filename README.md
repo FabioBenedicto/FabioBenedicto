@@ -1,6 +1,4 @@
-### Hello wolrd! 
-
-  Eu sou o Fábio Benedicto
+### Hello wolrd! Eu sou o Fábio Benedicto.
 
 ##
 
