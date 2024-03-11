@@ -26,8 +26,6 @@ Nesse momento:
 </div>
 
 ##
-
-<br>
  
 <div> 
   <a href="mailto:fabiobenedicto@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
