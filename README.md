@@ -1,7 +1,5 @@
 ### Hello wolrd! Eu me chamo Fábio Henrique Benedicto.
 
-##
-
 <div align="center">
   <a href="https://github.com/FabioBenedicto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioBenedicto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
